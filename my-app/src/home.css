@@ -1,0 +1,9 @@
+.button-container {
+    display: grid;
+    grid-auto-rows: min-content;
+    gap: 10px;
+  }
+.approvalStatus{
+  font-weight: bolder;
+  color: darkblue;
+}
